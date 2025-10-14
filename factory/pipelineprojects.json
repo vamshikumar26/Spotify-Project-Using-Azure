@@ -1,9 +1,0 @@
-{
-	"name": "pipelineprojects",
-	"location": "uksouth",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "eb910221-ec03-4287-87d1-bc293320b65d",
-		"tenantId": "8825f0b3-7575-44bb-b82d-7e087a22bae5"
-	}
-}
